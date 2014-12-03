@@ -9,14 +9,14 @@ public class SwitchTest{
 			case "Benz":
 			System.out.println("Benz");
 			break;
-			case "tesila":
-			System.out.println("tesila");
+			case "Tesla":
+			System.out.println("Tesla");
 			break;
 			case "Ford":
 			System.out.println("Ford");
 			break;
-			default :
-			System.out.println("others Car");
+			default:
+			System.out.println("Others Car");
 			break;
 			
 		}
