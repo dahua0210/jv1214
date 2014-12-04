@@ -22,7 +22,7 @@ public class ErweiTest{
 		for(int i = 0;i<3;i++){
 		if(grade[i][ch-1]<60){
 			time++;
-		System.out.println("该科目:"+i+"挂的次数"+time);
+		System.out.println("该科目:"+ch[]+"挂的次数"+time);
 		
 		}
 		}
