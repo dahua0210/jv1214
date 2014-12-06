@@ -4,7 +4,7 @@ public class ThisTest{
 		this.name = name;
 	
 	}
-	//陈远变量
+	//成员变量
 	ThisTest get(){
 		return this;
 	

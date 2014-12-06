@@ -7,7 +7,7 @@ public class Account{
 	
 	}
 	public void info(){
-		System.out.println("user:"+this.user+"password"+this.password);
+		System.out.println("user:"+this.user+"\tpassword"+this.password);
 	
 	}
 

@@ -5,8 +5,7 @@ public class ClassInit{
 		private static String getStaticVar(){
 			System.out.println("static方法=类方法");
 			return "Static变量";
-		
-		
+	
 		}
 		//实例变量
 		int var = getIntVar();

@@ -1,3 +1,6 @@
+//子类可以继承父类的变量以及方法
+//this 和 super 不能同时使用（因为都必须在第一行）
+
 public class Employee{
 	int id;
 	String name;

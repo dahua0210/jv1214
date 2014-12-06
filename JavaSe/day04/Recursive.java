@@ -9,7 +9,7 @@ public class Recursive{
 		}
 		else{
 			//方法中条用它自身就是方法递归
-			return 2 * fn(n - 1) + fn(n + 2);
+			return 2 * fn(n - 1) + fn(n +2);
 		}
 	
 	}
