@@ -1,4 +1,4 @@
-/*class Employee{
+class Employee{
 	String name;
 	double salary;
 	int year;
@@ -28,4 +28,4 @@
 	private double salary;
 	private Date hireDay;
 
-}*/
+}
