@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="day01"/>
+	<classpathentry kind="src" path="day02"/>
+	<classpathentry kind="src" path="day03"/>
+	<classpathentry kind="src" path="day04"/>
+	<classpathentry excluding="static/|This/" kind="src" path="day05"/>
+	<classpathentry kind="src" path="day05/static"/>
+	<classpathentry kind="src" path="day05/This"/>
+	<classpathentry kind="src" path="day06"/>
+	<classpathentry kind="src" path="day08"/>
+	<classpathentry kind="src" path="day09"/>
+	<classpathentry kind="src" path="day10"/>
+	<classpathentry kind="src" path="day11"/>
+	<classpathentry kind="src" path="day12"/>
+	<classpathentry kind="src" path="day13"/>
+	<classpathentry kind="src" path="day15/src"/>
+	<classpathentry kind="src" path="S1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="day15/bin"/>
+</classpath>
