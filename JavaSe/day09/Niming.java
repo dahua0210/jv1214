@@ -19,7 +19,7 @@ public class Niming{
 				int a;
 				//final static String b =123;
 				public void read(){
-					System.out.println("∂¡»°u≈Ã");
+				System.out.println("∂¡»°u≈Ã");
 				}
 				public void write(){
 				System.out.println("–¥u≈Ã");
